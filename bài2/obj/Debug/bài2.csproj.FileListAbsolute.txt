@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\Buoi 3\bài2\bin\Debug\bài2.exe.config
+C:\Users\PC602\source\repos\Buoi 3\bài2\bin\Debug\bài2.exe
+C:\Users\PC602\source\repos\Buoi 3\bài2\bin\Debug\bài2.pdb
+C:\Users\PC602\source\repos\Buoi 3\bài2\obj\Debug\bài2.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Buoi 3\bài2\obj\Debug\bài2.Properties.Resources.resources
+C:\Users\PC602\source\repos\Buoi 3\bài2\obj\Debug\bài2.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\Buoi 3\bài2\obj\Debug\bài2.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Buoi 3\bài2\obj\Debug\bài2.exe
+C:\Users\PC602\source\repos\Buoi 3\bài2\obj\Debug\bài2.pdb
+C:\Users\PC602\source\repos\Buoi 3\bài2\obj\Debug\bài2.MainForm.resources
