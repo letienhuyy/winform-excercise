@@ -1,0 +1,11 @@
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\bin\Debug\bai 2.exe.config
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\bin\Debug\bai 2.exe
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\bin\Debug\bai 2.pdb
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\bai 2.csproj.AssemblyReference.cache
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\bai_2.Properties.Resources.resources
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\bai 2.csproj.GenerateResource.cache
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\bai 2.csproj.CoreCompileInputs.cache
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\bai 2.exe
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\bai 2.pdb
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\bai_2.frmGiaoVien.resources
+C:\Users\letie\Downloads\2212379\2212379\Myform\bai 2\obj\Debug\Lab2.frmGiaoVien.resources
